@@ -27,12 +27,12 @@ A curated list of awesome team chat platforms, tools, and resources for modern r
 
 | Product | Description | Stars |
 |---------|-------------|-------|
-| Rocket.Chat | Communications platform for organizations with high standards of data protection. | [![Stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=social&color=white)](https://github.com/RocketChat/Rocket.Chat/stargazers) |
-| Mattermost | Open source, self-hosted Slack-alternative. | [![Stars](https://img.shields.io/github/stars/mattermost/mattermost?style=social&color=white)](https://github.com/mattermost/mattermost/stargazers) |
-| Matrix (Synapse) | Open standard for secure, decentralized, real-time communication. | [![Stars](https://img.shields.io/github/stars/matrix-org/synapse?style=social&color=white)](https://github.com/matrix-org/synapse/stargazers) |
-| Zulip | Chat with model for threaded conversations. | [![Stars](https://img.shields.io/github/stars/zulip/zulip?style=social&color=white)](https://github.com/zulip/zulip/stargazers) |
-| Element | Matrix client for secure communication. | [![Stars](https://img.shields.io/github/stars/element-hq/element-web?style=social&color=white)](https://github.com/element-hq/element-web/stargazers) |
-| Wire | Secure collaboration platform. | [![Stars](https://img.shields.io/github/stars/wireapp/wire-webapp?style=social&color=white)](https://github.com/wireapp/wire-webapp/stargazers) |
+| [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | Communications platform for organizations with high standards of data protection. | [![Stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=social&color=white)](https://github.com/RocketChat/Rocket.Chat/stargazers) |
+| [Mattermost](https://github.com/mattermost/mattermost) | Open source, self-hosted Slack-alternative. | [![Stars](https://img.shields.io/github/stars/mattermost/mattermost?style=social&color=white)](https://github.com/mattermost/mattermost/stargazers) |
+| [Matrix (Synapse)](https://github.com/matrix-org/synapse) | Open standard for secure, decentralized, real-time communication. | [![Stars](https://img.shields.io/github/stars/matrix-org/synapse?style=social&color=white)](https://github.com/matrix-org/synapse/stargazers) |
+| [Zulip](https://github.com/zulip/zulip) | Chat with model for threaded conversations. | [![Stars](https://img.shields.io/github/stars/zulip/zulip?style=social&color=white)](https://github.com/zulip/zulip/stargazers) |
+| [Element](https://github.com/element-hq/element-web) | Matrix client for secure communication. | [![Stars](https://img.shields.io/github/stars/element-hq/element-web?style=social&color=white)](https://github.com/element-hq/element-web/stargazers) |
+| [Wire](https://github.com/wireapp/wire-webapp) | Secure collaboration platform. | [![Stars](https://img.shields.io/github/stars/wireapp/wire-webapp?style=social&color=white)](https://github.com/wireapp/wire-webapp/stargazers) |
 
 ##  Star History
 <div align="center">
